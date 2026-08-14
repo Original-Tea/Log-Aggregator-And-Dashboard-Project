@@ -1,1 +1,3 @@
-
+# Security: Ignore database passwords
+appsettings.json
+appsettings.*.json
